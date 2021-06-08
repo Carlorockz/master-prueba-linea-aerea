@@ -13,9 +13,7 @@ p{
     padding: 0;
     font-weight: 300;
 }
-.header{
-    min-height: 100vh;
+#navbar-ps{
+    position: fixed;
+    z-index: 99;
 }
-.header .navbar {
-    background-color: transparent !important;
-  }

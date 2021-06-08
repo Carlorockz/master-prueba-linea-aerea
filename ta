@@ -1,0 +1,23 @@
+[33mcommit 08941a5cfcb3a80eb86f6d62485a92807c63c840[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Carlos Bravo <bravo.carlosalberto@gmail.com>
+Date:   Mon Jun 7 23:22:12 2021 -0400
+
+    Se agrega embed de typeform
+
+[33mcommit 4abbf067ab670697fd0268fc4f1beb66879b0a28[m
+Author: Carlos Bravo <bravo.carlosalberto@gmail.com>
+Date:   Mon Jun 7 22:29:44 2021 -0400
+
+    Estructura html básica completa
+
+[33mcommit 1df0118b178fae6b1909335e75098bba85860b8e[m
+Author: Carlos Bravo <bravo.carlosalberto@gmail.com>
+Date:   Mon Jun 7 21:05:16 2021 -0400
+
+    Se crea estructura de carpetas
+
+[33mcommit 3f51a6e20074d10238b2675e1a7e224f1f5e57c1[m
+Author: Carlos Bravo <bravo.carlosalberto@gmail.com>
+Date:   Mon Jun 7 21:03:40 2021 -0400
+
+    Se añade estructura del sitio
