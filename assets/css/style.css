@@ -13,10 +13,12 @@ p{
     padding: 0;
     font-weight: 300;
 }
-#navbar-ps{
+.navbar{
     position: fixed;
-    z-index: 99;
-}
+    z-index: 10;
+    top:0;
+    width: 100%;
+    }
 @media only screen and (max-width: 600px) {
 
   } 
