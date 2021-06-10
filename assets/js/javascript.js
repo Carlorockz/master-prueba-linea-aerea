@@ -9,6 +9,7 @@ window.addEventListener('scroll', function () {
   }
 });
 /*fin*/
+
 /*Animación que permite que ralentizar la transición del click del link de menú a la sección determinada*/
 $(document).ready(function(){
   $("a").on('click', function(event) {
