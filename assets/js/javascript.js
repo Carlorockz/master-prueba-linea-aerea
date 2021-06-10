@@ -1,6 +1,9 @@
-$(window).on("scroll", function(){
-  if($(document).scrollTop() >10)
-    {
-      $('.navbar').addClass('navbar-dark bg-dark');
+var nav = document.querySelector('nav');
+
+window.addEventListener('scroll', function () {
+  if (window.pageYOffset > 10) {
+    nav.classList.add('bg-dark');
+  } else {
+    nav.classList.remove('bg-dark');
   }
 });
