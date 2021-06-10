@@ -1,3 +1,4 @@
+/*Animación que permite hacer scroll y cambiar el color de background del menu*/
 var nav = document.querySelector('nav');
 
 window.addEventListener('scroll', function () {
@@ -7,7 +8,8 @@ window.addEventListener('scroll', function () {
     nav.classList.remove('bg-dark');
   }
 });
-
+/*fin*/
+/*Animación que permite que ralentizar la transición del click del link de menú a la sección determinada*/
 $(document).ready(function(){
   $("a").on('click', function(event) {
     if (this.hash !== "") {
@@ -23,3 +25,4 @@ $(document).ready(function(){
     }
   });
 });
+/*fin*/
